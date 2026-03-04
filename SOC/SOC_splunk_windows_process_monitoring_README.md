@@ -132,7 +132,21 @@ Technologies used:
 * SPL (Search Processing Language)
 
 ---
+## Full Project Report
 
+The full technical report including configuration steps and screenshots of the lab environment is available in the PDF report.
+
+📄 Monitoraggio_windows_con_Splunk.pdf
+
+This report contains:
+
+- Splunk installation
+- Universal Forwarder configuration
+- Windows Event Log ingestion
+- SPL detection queries
+- SOC monitoring dashboard
+- Security alert configuration
+- Screenshots of the entire lab
 ## Author
 
 **Domenico Vitale**
